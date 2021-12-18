@@ -1,0 +1,29 @@
+.accrodionSection {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.accordionImage img {
+  height: 418px;
+}
+.accordionNumber {
+  background: #ff5a6e none repeat scroll 0 0;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  color: #ffffff;
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  margin-right: 5px;
+  text-align: center;
+  width: 30px;
+  margin-right: 4px;
+}
+.accordionDetailes {
+  font-size: 14px;
+  color: #666666;
+  line-height: 26px;
+  margin: 0 0 15px;
+  text-transform: none;
+  font-weight: 400;
+}
